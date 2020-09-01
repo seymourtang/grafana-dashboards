@@ -522,7 +522,7 @@
             "dashes": false,
             "datasource": "Prometheus",
             "decimals": 2,
-            "description": "Shows  Number of Samples Per Second Stored for Given Interval in the Time Series",
+            "description": "Shows the number of samples per second stored for a given interval in the time series.",
             "fill": 1,
             "gridPos": {
                 "h": 7,
